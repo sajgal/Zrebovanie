@@ -5,5 +5,5 @@ Instalacia
 ----------
 
 1. Stiahnute subory ulozte do priecinka
-2. Naplnte pole "vyhercovia" v subore `zrebovanie.sj`
+2. Naplnte pole "vyhercovia" v subore `zrebovanie.js`
 3. Upravte subor `index.html` podla svojej predstavy (doplnte meno akcie na ktorej budete zrebovat, vymente placeholder, pomenujte si svoje tlacitka, atd).
