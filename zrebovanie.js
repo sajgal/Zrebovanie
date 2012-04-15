@@ -1,13 +1,13 @@
 $(document).ready(function() {
 	
 	var vyhercovia = [
-		"a.fischerova@gmail.com",
-		"hanabenakova@gmail.com",
-		"lucilianna@azet.sk",
-		"fyjko@azet.sk",
-		"hola@minka.sk",
-		"matej@sajgal.com",
-		"mlieko@nastole.sk",
+		"email1@gmail.com",
+		"email2@gmail.com",
+		"email3@azet.sk",
+		"email4@azet.sk",
+		"email5@gmail.com",
+		"email6@seznam.cz",
+		"email7@zoznam.sk",
 	];
 	
 	var counter = 0,
